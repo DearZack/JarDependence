@@ -1,4 +1,4 @@
-package io.github.dearzack.jardependence.db;
+package io.github.dearzack.jardependence.db.bean;
 
 import org.greenrobot.greendao.annotation.Entity;
 import org.greenrobot.greendao.annotation.Id;

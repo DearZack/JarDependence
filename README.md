@@ -26,3 +26,6 @@
 - org.eclipse.jdt.core-3.11.0.v20150602-1242.jar
 - org.eclipse.osgi-3.10.100.v20150529-1857.jar
 - org.eclipse.text-3.5.400.v20150505-1044.jar
+
+## AndroidUtilCode 1.9.0需要的依赖包
+- utilcode-1.9.0.aar
