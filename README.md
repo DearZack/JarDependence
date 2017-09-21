@@ -29,3 +29,6 @@
 
 ## AndroidUtilCode 1.9.0需要的依赖包
 - utilcode-1.9.0.aar
+
+## Gson 2.8.2
+- gson_2.8.2.jar
